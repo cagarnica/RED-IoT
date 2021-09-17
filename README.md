@@ -157,6 +157,8 @@ En lo que es la cuestión del smartphone, podemos observar que nos aparece con u
  
 Con esto finalizamos la explicación de dicho ejemplo.
 
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ResultadoFinal.PNG)
+
 ## VIDEO
 - https://www.youtube.com/watch?v=DqSF19PrQUM
 
