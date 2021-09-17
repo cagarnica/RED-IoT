@@ -1,0 +1,104 @@
+dom. sep. 12 22:30:31 2021: Starting Cisco Packet Tracer 8.0.0.0212
+dom. sep. 12 22:30:31 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 22:30:31 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 22:30:41 2021: Script Module starting: 
+dom. sep. 12 22:30:42 2021: Opening file: C:\Users\cesar\Downloads\Esteban Garnica_PL2.pka
+dom. sep. 12 22:30:42 2021: Saving options...
+dom. sep. 12 22:30:42 2021: Options saved.
+dom. sep. 12 22:30:43 2021: Script Module starting: 
+dom. sep. 12 22:30:43 2021: Script Module starting: 
+dom. sep. 12 22:30:43 2021: Script Module starting: 
+dom. sep. 12 22:30:44 2021: Script Module starting: 
+dom. sep. 12 22:30:44 2021: Script Module starting: net.netacad.cisco.resource
+dom. sep. 12 22:30:44 2021: Script Module starting: File
+dom. sep. 12 22:30:44 2021: Script Module stopping: File
+dom. sep. 12 22:30:45 2021: Changed device name:  to PC para el hogar
+dom. sep. 12 22:30:46 2021: Changed device name:  to Router inalámbrico
+dom. sep. 12 22:30:47 2021: Changed device name:  to Módem por cable
+dom. sep. 12 22:30:47 2021: Changed device name:  to Nube
+dom. sep. 12 22:30:47 2021: Changed device name:  to Router0
+dom. sep. 12 22:30:48 2021: Changed device name:  to netacad.pka
+dom. sep. 12 22:30:48 2021: Changed device name:  to Home Printer
+dom. sep. 12 22:30:48 2021: Changed device name:  to Configuration Terminal
+dom. sep. 12 22:30:48 2021: Changed device name:  to Router1
+dom. sep. 12 22:30:48 2021: Changed device name:  to Switch
+dom. sep. 12 22:30:48 2021: Changed device name:  to PC familiar
+dom. sep. 12 22:30:49 2021: Changed device name:  to PC para el hogar
+dom. sep. 12 22:30:49 2021: Changed device name:  to Router inalámbrico
+dom. sep. 12 22:30:49 2021: Changed device name:  to Módem por cable
+dom. sep. 12 22:30:49 2021: Changed device name:  to Nube
+dom. sep. 12 22:30:49 2021: Changed device name:  to Router0
+dom. sep. 12 22:30:49 2021: Changed device name:  to netacad.pka
+dom. sep. 12 22:30:49 2021: Changed device name:  to Home Printer
+dom. sep. 12 22:30:49 2021: Changed device name:  to Configuration Terminal
+dom. sep. 12 22:30:49 2021: Changed device name:  to Router1
+dom. sep. 12 22:30:49 2021: Changed device name:  to Switch
+dom. sep. 12 22:30:49 2021: Changed device name:  to PC familiar
+dom. sep. 12 22:30:49 2021: Changed device name:  to Power Distribution Device0
+dom. sep. 12 22:30:49 2021: Changed device name:  to Power Distribution Device1
+dom. sep. 12 22:30:50 2021: Changed device name:  to PC para el hogar
+dom. sep. 12 22:30:50 2021: Changed device name:  to Router inalámbrico
+dom. sep. 12 22:30:50 2021: Changed device name:  to Módem por cable
+dom. sep. 12 22:30:50 2021: Changed device name:  to Nube
+dom. sep. 12 22:30:50 2021: Changed device name:  to Router0
+dom. sep. 12 22:30:50 2021: Changed device name:  to netacad.pka
+dom. sep. 12 22:30:50 2021: Changed device name:  to Home Printer
+dom. sep. 12 22:30:50 2021: Changed device name:  to Configuration Terminal
+dom. sep. 12 22:30:50 2021: Changed device name:  to Router1
+dom. sep. 12 22:30:50 2021: Changed device name:  to Switch
+dom. sep. 12 22:30:50 2021: Changed device name:  to PC familiar
+dom. sep. 12 22:30:52 2021: Script Module stopping: File
+dom. sep. 12 22:30:52 2021: Script Module starting: File
+dom. sep. 12 22:30:52 2021: File opened successfully.
+dom. sep. 12 22:30:57 2021: CPtmpServer started at port 39002
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.Marvel
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.PcSoftware
+dom. sep. 12 22:30:57 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+dom. sep. 12 22:30:58 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 22:30:59 2021: CPtmpServer started at port 38002
+dom. sep. 12 22:31:15 2021: Link created: PC para el hogar Wireless0 to Router inalámbrico Wireless, 8109
+dom. sep. 12 22:32:54 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:54 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:54 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:32:55 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:34:18 2021: Saving to file: C:/Users/cesar/Downloads/Esteban Garnica_PL2.pka
+dom. sep. 12 22:34:21 2021: Saving options...
+dom. sep. 12 22:34:21 2021: Options saved.
+dom. sep. 12 22:34:21 2021: File saved successfully.
+dom. sep. 12 22:34:21 2021: Saving options...
+dom. sep. 12 22:34:21 2021: Options saved.
+dom. sep. 12 22:34:30 2021: Script Module stopping: File
+dom. sep. 12 22:34:30 2021: Link deleted: Router0 FastEthernet0/1 to netacad.pka FastEthernet0, 8101
+dom. sep. 12 22:34:30 2021: Link deleted: Router0 FastEthernet0/0 to Nube Ethernet6, 8100
+dom. sep. 12 22:34:30 2021: Link deleted: Configuration Terminal RS 232 to Router0 Console, 8108
+dom. sep. 12 22:34:30 2021: Link deleted: Router1 FastEthernet1/0 to Switch FastEthernet0/1, 8103
+dom. sep. 12 22:34:30 2021: Link deleted: Router0 Serial0/0/0 to Router1 Serial0/0, 8106
+dom. sep. 12 22:34:30 2021: Link deleted: Módem por cable Port 1 to Router inalámbrico Internet, 8100
+dom. sep. 12 22:34:30 2021: Link deleted: Nube Coaxial7 to Módem por cable Port 0, 8110
+dom. sep. 12 22:34:30 2021: Link deleted: Router inalámbrico Ethernet 1 to PC familiar FastEthernet0, 8100
+dom. sep. 12 22:34:31 2021: Script Module stopping: File
+dom. sep. 12 22:34:31 2021: Script Module stopping: File
+dom. sep. 12 22:34:31 2021: Script Module stopping: File
+dom. sep. 12 22:34:32 2021: Script Module stopping: File
+dom. sep. 12 22:34:32 2021: Exiting
+dom. sep. 12 22:34:32 2021: Saving options...
+dom. sep. 12 22:34:32 2021: Options saved.
+dom. sep. 12 22:34:32 2021: Script Module stopping: net.netacad.cisco.resource
+dom. sep. 12 22:34:32 2021: Script Module stopping: net.netacad.cisco.PTINTERNAL
+dom. sep. 12 22:34:32 2021: Script Module stopping: net.netacad.cisco.PcSoftware
+dom. sep. 12 22:34:32 2021: Script Module stopping: net.netacad.cisco.Marvel
+dom. sep. 12 22:34:32 2021: Script Module stopping: net.netacad.cisco.clearTerminalAgent
+dom. sep. 12 22:34:33 2021: Script Module stopping: net.netacad.cisco.ActivitySequencer
+dom. sep. 12 22:34:33 2021: Script Module stopping: net.netacad.cisco.ActivitySequenceEditor
+dom. sep. 12 22:34:34 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+dom. sep. 12 22:34:34 2021: CPtmpServer stopped.
+dom. sep. 12 22:34:34 2021: CPtmpServer stopped.

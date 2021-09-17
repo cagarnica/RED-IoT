@@ -1,0 +1,142 @@
+dom. sep. 12 21:17:51 2021: Starting Cisco Packet Tracer 8.0.0.0212
+dom. sep. 12 21:17:51 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 21:17:52 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 21:17:59 2021: Script Module starting: 
+dom. sep. 12 21:18:02 2021: CPtmpServer started at port 39000
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.Marvel
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.PcSoftware
+dom. sep. 12 21:18:02 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+dom. sep. 12 21:18:03 2021: Script Module starting: net.netacad.cisco.resource
+dom. sep. 12 21:18:03 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 21:18:03 2021: CPtmpServer started at port 38000
+dom. sep. 12 22:13:50 2021: Opening file: C:/Users/cesar/Downloads/ProyectoNetworking2.pkt
+dom. sep. 12 22:13:51 2021: Changed device name:  to Router Aeropuerto
+dom. sep. 12 22:13:52 2021: Changed device name:  to Power Distribution Device0
+dom. sep. 12 22:13:52 2021: Changed device name:  to PrincipalP2
+dom. sep. 12 22:13:52 2021: Changed device name:  to PrincipalP1
+dom. sep. 12 22:13:52 2021: Changed device name:  to PrincipalP3
+dom. sep. 12 22:13:52 2021: Changed device name:  to P2.1
+dom. sep. 12 22:13:52 2021: Changed device name:  to P2.2
+dom. sep. 12 22:13:52 2021: Changed device name:  to P2.3
+dom. sep. 12 22:13:52 2021: Changed device name:  to P2.4
+dom. sep. 12 22:13:52 2021: Changed device name:  to P2.5
+dom. sep. 12 22:13:52 2021: Changed device name:  to P1.1
+dom. sep. 12 22:13:52 2021: Changed device name:  to P1.2
+dom. sep. 12 22:13:52 2021: Changed device name:  to Power Distribution Device1
+dom. sep. 12 22:13:52 2021: Changed device name:  to P1.3
+dom. sep. 12 22:13:52 2021: Changed device name:  to P1.4
+dom. sep. 12 22:13:52 2021: Changed device name:  to P1.5
+dom. sep. 12 22:13:52 2021: Changed device name:  to P3.1
+dom. sep. 12 22:13:52 2021: Changed device name:  to P3.2
+dom. sep. 12 22:13:52 2021: Changed device name:  to P3.3
+dom. sep. 12 22:13:53 2021: Changed device name:  to P3.4
+dom. sep. 12 22:13:53 2021: Changed device name:  to P3.5
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC0
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC1
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC2
+dom. sep. 12 22:13:53 2021: Changed device name:  to P3.6
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC3
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC4
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC5
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC6
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC7
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC8
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC9
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC10
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC11
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC12
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC13
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC14
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC15
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC16
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC17
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC18
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC19
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC20
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC21
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC22
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC23
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC24
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC25
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC26
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC27
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC28
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC29
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC30
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC31
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC32
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC33
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC34
+dom. sep. 12 22:13:53 2021: Changed device name:  to Laptop0
+dom. sep. 12 22:13:53 2021: Changed device name:  to PC35
+dom. sep. 12 22:13:53 2021: Changed device name:  to Laptop1
+dom. sep. 12 22:13:53 2021: Changed device name:  to PasajerosP1
+dom. sep. 12 22:13:53 2021: Changed device name:  to Power Distribution Device2
+dom. sep. 12 22:13:53 2021: Changed device name:  to PasajerosP2
+dom. sep. 12 22:13:53 2021: Changed device name:  to PasajerosP3
+dom. sep. 12 22:13:53 2021: Changed device name:  to Pasajeros2.1
+dom. sep. 12 22:13:54 2021: Changed device name:  to Pasajeros2.2
+dom. sep. 12 22:13:54 2021: Changed device name:  to Pasajeros3.1
+dom. sep. 12 22:13:54 2021: Changed device name:  to Pasajeros3.2
+dom. sep. 12 22:13:54 2021: Changed device name:  to Pasajeros3.3
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC36
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC37
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC38
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC39
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC40
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC41
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC42
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC43
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC44
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC45
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC46
+dom. sep. 12 22:13:54 2021: Changed device name:  to PC47
+dom. sep. 12 22:13:54 2021: Changed device name:  to Switch3 Torre2
+dom. sep. 12 22:13:55 2021: Changed device name:  to Torre 2
+dom. sep. 12 22:13:55 2021: Changed device name:  to P2.6
+dom. sep. 12 22:13:55 2021: Changed device name:  to PasajeroP1.1
+dom. sep. 12 22:13:55 2021: Changed device name:  to Pasajero P1.2
+dom. sep. 12 22:13:55 2021: Changed device name:  to PC48
+dom. sep. 12 22:13:55 2021: Changed device name:  to PC49
+dom. sep. 12 22:13:55 2021: Changed device name:  to Multilayer Switch0
+dom. sep. 12 22:13:55 2021: Changed device name:  to Switch3 Pasajeros
+dom. sep. 12 22:13:55 2021: Changed device name:  to Switch0
+dom. sep. 12 22:13:56 2021: Changed device name:  to Multilayer Switch1
+dom. sep. 12 22:13:56 2021: Script Module stopping: File
+dom. sep. 12 22:13:56 2021: Script Module starting: File
+dom. sep. 12 22:13:56 2021: File opened successfully.
+dom. sep. 12 22:13:57 2021: Saving options...
+dom. sep. 12 22:13:57 2021: Options saved.
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:14:38 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+dom. sep. 12 22:34:50 2021: Saving to file: C:/Users/cesar/Downloads/ProyectoNetworking2.pkt
+dom. sep. 12 22:34:51 2021: Saving options...
+dom. sep. 12 22:34:51 2021: Options saved.
+dom. sep. 12 22:34:51 2021: File saved successfully.
+dom. sep. 12 22:34:51 2021: Saving options...
+dom. sep. 12 22:34:51 2021: Options saved.
+dom. sep. 12 22:35:01 2021: Script Module stopping: File
+dom. sep. 12 22:35:10 2021: Exiting
+dom. sep. 12 22:35:10 2021: Saving options...
+dom. sep. 12 22:35:10 2021: Options saved.
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.resource
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.PTINTERNAL
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.PcSoftware
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.Marvel
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.clearTerminalAgent
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.ActivitySequencer
+dom. sep. 12 22:35:11 2021: Script Module stopping: net.netacad.cisco.ActivitySequenceEditor
+dom. sep. 12 22:35:13 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+dom. sep. 12 22:35:13 2021: CPtmpServer stopped.
+dom. sep. 12 22:35:13 2021: CPtmpServer stopped.

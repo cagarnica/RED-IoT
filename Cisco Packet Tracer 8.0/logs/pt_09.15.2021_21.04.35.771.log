@@ -1,0 +1,51 @@
+mié. sep. 15 21:04:35 2021: Starting Cisco Packet Tracer 8.0.0.0212
+mié. sep. 15 21:04:35 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:04:35 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:04:43 2021: Script Module starting: 
+mié. sep. 15 21:04:44 2021: Opening file: C:\Users\cesar\OneDrive\Documentos\Trabajo de Circuitos\TrabajoExtra_CesarGarnica.pkt
+mié. sep. 15 21:04:45 2021: Changed device name:  to Smartphone0
+mié. sep. 15 21:04:45 2021: Changed device name:  to PuertaC
+mié. sep. 15 21:04:45 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+mié. sep. 15 21:04:46 2021: Changed device name:  to PuertaD
+mié. sep. 15 21:04:46 2021: Changed device name:  to WebCam
+mié. sep. 15 21:04:46 2021: Changed device name:  to Radio
+mié. sep. 15 21:04:46 2021: Changed device name:  to Cafetera
+mié. sep. 15 21:04:46 2021: Changed device name:  to Lampara_Izquier
+mié. sep. 15 21:04:46 2021: Changed device name:  to Ventana
+mié. sep. 15 21:04:46 2021: Changed device name:  to Lampara_Derecha
+mié. sep. 15 21:04:46 2021: Changed device name:  to Ventilador
+mié. sep. 15 21:04:46 2021: Changed device name:  to Puerta
+mié. sep. 15 21:04:47 2021: Changed device name:  to Ventana2
+mié. sep. 15 21:04:47 2021: Changed device name:  to Garage
+mié. sep. 15 21:04:47 2021: Changed device name:  to Home Gateway1
+mié. sep. 15 21:04:47 2021: Changed device name:  to Laptop
+mié. sep. 15 21:04:47 2021: Script Module stopping: File
+mié. sep. 15 21:04:47 2021: Script Module starting: File
+mié. sep. 15 21:04:47 2021: File opened successfully.
+mié. sep. 15 21:04:49 2021: CPtmpServer started at port 39000
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.Marvel
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.PcSoftware
+mié. sep. 15 21:04:49 2021: Script Module starting: net.netacad.cisco.resource
+mié. sep. 15 21:04:49 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:04:50 2021: CPtmpServer started at port 38000
+mié. sep. 15 21:05:07 2021: Link created: Lampara_Izquier Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Laptop Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: PuertaC Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: PuertaD Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Garage Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Lampara_Derecha Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Ventana2 Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Ventana Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Ventilador Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:07 2021: Link created: Cafetera Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:08 2021: Link created: Radio Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:08 2021: Link created: WebCam Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:08 2021: Link created: Puerta Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:05:08 2021: Link created: Smartphone0 Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:15:33 2021: Script Module stopping: File
+mié. sep. 15 21:15:34 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+mié. sep. 15 21:15:34 2021: CPtmpServer stopped.
+mié. sep. 15 21:15:34 2021: CPtmpServer stopped.

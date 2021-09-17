@@ -1,0 +1,21 @@
+dom. sep. 12 21:11:14 2021: Starting Cisco Packet Tracer 8.0.0.0212
+dom. sep. 12 21:11:15 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 21:11:50 2021: Script Module starting: 
+dom. sep. 12 21:11:54 2021: CPtmpServer started at port 39000
+dom. sep. 12 21:11:54 2021: Saving options...
+dom. sep. 12 21:11:54 2021: Options saved.
+dom. sep. 12 21:12:00 2021: Saving options...
+dom. sep. 12 21:12:00 2021: Options saved.
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.Marvel
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.PcSoftware
+dom. sep. 12 21:12:00 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+dom. sep. 12 21:12:01 2021: Script Module starting: net.netacad.cisco.resource
+dom. sep. 12 21:12:01 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+dom. sep. 12 21:12:04 2021: CPtmpServer started at port 38000
+dom. sep. 12 21:17:43 2021: Script Module stopping: File
+dom. sep. 12 21:17:46 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+dom. sep. 12 21:17:46 2021: CPtmpServer stopped.
+dom. sep. 12 21:17:46 2021: CPtmpServer stopped.

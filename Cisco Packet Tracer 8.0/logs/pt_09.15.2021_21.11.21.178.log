@@ -1,0 +1,81 @@
+mié. sep. 15 21:11:21 2021: Starting Cisco Packet Tracer 8.0.0.0212
+mié. sep. 15 21:11:21 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:11:21 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:11:29 2021: Script Module starting: 
+mié. sep. 15 21:11:29 2021: Opening file: C:\Users\cesar\OneDrive\Documentos\Trabajo de Circuitos\TrabajoExtra_CesarGarnica.pkt
+mié. sep. 15 21:11:30 2021: Changed device name:  to Smartphone0
+mié. sep. 15 21:11:30 2021: Changed device name:  to PuertaC
+mié. sep. 15 21:11:30 2021: Script Module starting: net.netacad.cisco.PTINTERNAL
+mié. sep. 15 21:11:31 2021: Changed device name:  to PuertaD
+mié. sep. 15 21:11:31 2021: Changed device name:  to WebCam
+mié. sep. 15 21:11:31 2021: Changed device name:  to Radio
+mié. sep. 15 21:11:32 2021: Changed device name:  to Cafetera
+mié. sep. 15 21:11:32 2021: Changed device name:  to Lampara_Izquier
+mié. sep. 15 21:11:32 2021: Changed device name:  to Ventana
+mié. sep. 15 21:11:32 2021: Changed device name:  to Lampara_Derecha
+mié. sep. 15 21:11:32 2021: Changed device name:  to Ventilador
+mié. sep. 15 21:11:32 2021: Changed device name:  to Puerta
+mié. sep. 15 21:11:32 2021: Changed device name:  to Ventana2
+mié. sep. 15 21:11:32 2021: Changed device name:  to Garage
+mié. sep. 15 21:11:33 2021: Changed device name:  to Home Gateway1
+mié. sep. 15 21:11:33 2021: Changed device name:  to Laptop
+mié. sep. 15 21:11:33 2021: Script Module stopping: File
+mié. sep. 15 21:11:33 2021: Script Module starting: File
+mié. sep. 15 21:11:33 2021: File opened successfully.
+mié. sep. 15 21:11:35 2021: CPtmpServer started at port 39001
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.ActivitySequenceEditor
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.ActivitySequencer
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.clearTerminalAgent
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.Marvel
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.PcSoftware
+mié. sep. 15 21:11:35 2021: Script Module starting: net.netacad.cisco.resource
+mié. sep. 15 21:11:35 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\engine\ipc\ccep.cpp(349):WARN  - Forced an exapp to be MANDATORY at run-time.
+mié. sep. 15 21:11:35 2021: CPtmpServer started at port 38001
+mié. sep. 15 21:11:52 2021: Link created: Garage Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:52 2021: Link created: Cafetera Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:54 2021: Link created: Ventana Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:54 2021: Link created: Radio Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:54 2021: Link created: PuertaD Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:55 2021: Link created: Ventilador Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:55 2021: Link created: WebCam Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:55 2021: Link created: PuertaC Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:56 2021: Link created: Lampara_Izquier Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:56 2021: Link created: Smartphone0 Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:57 2021: Link created: Puerta Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:11:58 2021: Link created: Ventana2 Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:12:00 2021: Link created: Lampara_Derecha Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:12:01 2021: Link created: Laptop Wireless0 to Home Gateway1 Wireless, 8109
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cOpenHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cClosedHand.png, Offset: 0 x 0, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cConnect.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cTargetX.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddDevice.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cInspect.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cAddPacket.svg, Offset: 10 x 10, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cResize.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cPencil.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:12:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\common\cursorbank.cpp(52):INFO  - Cursor: ../art/Cursors/cDrawingcross.svg, Offset: 16 x 16, Size: 32 x 32, DPR: 1
+mié. sep. 15 21:13:10 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+mié. sep. 15 21:13:43 2021: c:\users\cisco\jenkins\workspace\m_sgme_pt80_win64_cae\gui\deviceconfig\workstation\workstationwebview.cpp(50):INFO  - CWwvUrlInterceptor() - called
+mié. sep. 15 21:15:16 2021: Saving to file: C:/Users/cesar/OneDrive/Documentos/Trabajo de Circuitos/TrabajoExtra_CesarGarnica.pkt
+mié. sep. 15 21:15:17 2021: Saving options...
+mié. sep. 15 21:15:17 2021: Options saved.
+mié. sep. 15 21:15:17 2021: File saved successfully.
+mié. sep. 15 21:15:24 2021: Saving to file: C:/Users/cesar/OneDrive/Documentos/Trabajo de Circuitos/TrabajoExtra_CesarGarnica.pkt
+mié. sep. 15 21:15:25 2021: Saving options...
+mié. sep. 15 21:15:25 2021: Options saved.
+mié. sep. 15 21:15:25 2021: File saved successfully.
+mié. sep. 15 21:15:30 2021: Script Module stopping: File
+mié. sep. 15 21:15:30 2021: Exiting
+mié. sep. 15 21:15:30 2021: Saving options...
+mié. sep. 15 21:15:30 2021: Options saved.
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.resource
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.PTINTERNAL
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.PcSoftware
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.Marvel
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.clearTerminalAgent
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.ActivitySequencer
+mié. sep. 15 21:15:30 2021: Script Module stopping: net.netacad.cisco.ActivitySequenceEditor
+mié. sep. 15 21:15:31 2021: ExApp disconnecting: net.netacad.cisco.ptseplayer
+mié. sep. 15 21:15:31 2021: CPtmpServer stopped.
+mié. sep. 15 21:15:31 2021: CPtmpServer stopped.
