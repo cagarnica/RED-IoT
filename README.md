@@ -54,11 +54,13 @@ Las soluciones de IoT para empresas les permiten mejorar los modelos comerciales
 
 A continución prodecemos a explicar un ejemplo para simular una red IoT con Packet Tracer.
 
-El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo conectada en un plano de una casa. Esta red IoT, es una red sencila que usamos para que las cosas que no pueden ser conectadas 
+El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo conectada en un plano de una casa. Esta red IoT, es una red sencilla que usamos para las cosas que no pueden ser conectadas o nunca han sido conectadas. Hare una breve explicación de como fueron conectados lo utilizado en dicho ejemplo.
+
+1. Como primera parte, esta el haber agregado la imagen de fondo de un plano de una casa y tomar como referencia donde poder ubicar nuestras cosas que van hacer conectadas.
+2. 
 
 
-## Video
-
+## V
 - https://www.youtube.com/watch?v=DqSF19PrQUM
 
 ## Anexos
