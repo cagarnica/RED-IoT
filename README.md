@@ -112,15 +112,59 @@ El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo
 ![](https://github.com/cagarnica/Imagenes-IoT/blob/main/SSID.PNG)
 
 4. Como cuarto punto, tendremos que ubicar los dispositvos por el cual vamos hacer el manejo de las cosas que estan ubicadas en el plano. Para esto, ocupamos lo que es un smartphone y una lapto. Tenemos mas opciones con las cuales podemos trabajar, pero estas son las más utilizadas por los usuarios. Cada dispositivo tiene su propia configuración.  En este caso se podria decir que la mas compleja en ser utilizada es la laptop. Ya que tenemos que hacer un cambio de tarjeta con la cual estamos trabajando las cosas que hemos utilizado, y hacer casi una misma configuración como las cosas que están en el plano. De igual manera, a continuación voy a presentar en una imagen lo que tenemos que hacer.
+
 Laptop:
 
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Laptop.png)
 
+Lo que tenemos que hacer aquí es, apagar al computador para poder sacar la tarjeta, y asi poder tener una misma conexión con lo que sera el dispositivo inalámbrico.
 
+Una vez hecho estos pasos tendremos la conexión establecida.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionLaptop.PNG)
+
+Smartphone:
+
+En este dispositivo es algo mas sencillo de hacer, ya que solo tenemos que hacer el cambio de nombre en la parte de Wirless, SSDI.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/SSID.PNG)
+
+Una vez hecho estos pasos tendremos la conexión establecida.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionSmartphone.PNG)
+
+5. Como quinto y ultimo paso, tenemos que hacer la comprobación de que cada dispositivo nos funcione de manera correcta. A continuación, indicaré como es la funcionalidad de cada una de las cosas. Tendren que entra en cada dispositivo, entrar en la parte de desktop y ahi ver las cosas que tenemos conectadas.
+
+Laptop:
+
+En lo que es la cuestión de la laptop, podemos observar que nos aparece con un botón verde, esto nos está indicando que todas las cosas están conectadas correctamente. Pero para antes de pasar a la parte de ver las cosas conectadas, tenemos que inciar sesión con usuario y contraseña que nos estan proporcionando.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Login.PNG)
+
+Una vez hecho esto, procedemos a ver las conexiones. Aquí, podemos observar que, tenemos unos botones donde podremos interactuar para que cada cosa cumpla su función.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionM.PNG)
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionM.1.PNG)
+
+Smartphone:
+
+En lo que es la cuestión del smartphone, podemos observar que nos aparece con un botón verde, esto nos está indicando que todas las cosas están conectadas correctamente. Pero para antes de pasar a la parte de ver las cosas conectadas, tenemos que inciar sesión con usuario y contraseña que nos estan proporcionando. Es lo mismo proceso que de la laptop.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionM.PNG)
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/ConexionM.1.PNG)
+ 
+Con esto finalizamos la explicación de dicho ejemplo.
 
 ## VIDEO
 - https://www.youtube.com/watch?v=DqSF19PrQUM
 
 ## Conclusiones
+
+- Se realizó el diseño de una red casera de Internet de las cosas IoT, la cual se puede acceder y administrar desde cualquier dispositivo o desde un dispositivo de escritorio, es decir, que de manera remota se pueda abrir una puerta o ver quien ha ingresado a través de la misma.
+- Se estableció cuáles son los requerimientos mínimos para diseñar una red de Internet de las cosas IoT en un hogar, siendo una tecnología muy fácil de implementar teniendo todos los dispositivos y requerimientos ya establecidos.
+- Se esquematizó y se probó una red de IoT por medio del simulador de Packet Tracer obteniendo resultados satisfactorios.
 
 ## Bibliografia 
 
