@@ -48,7 +48,18 @@ Las soluciones de IoT para empresas les permiten mejorar los modelos comerciales
 - MÁS INVERSIONES EN IoT.
 - FINALMENTE, LA EXPANSIÓN REAL DEL IOT PEQUEÑO.
 
+**Pantalla Principal de Cisco Packet Tracer**
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/menus-principales-en-packet-tracer.png)
+
+A continución prodecemos a explicar un ejemplo para simular una red IoT con Packet Tracer.
+
+El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo conectada en un plano de una casa. Esta red IoT, es una red sencila que usamos para que las cosas que no pueden ser conectadas 
+
+
 ## Video
+
+- https://www.youtube.com/watch?v=DqSF19PrQUM
 
 ## Anexos
 
