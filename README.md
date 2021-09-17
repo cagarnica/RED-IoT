@@ -57,15 +57,14 @@ A continución prodecemos a explicar un ejemplo para simular una red IoT con Pac
 El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo conectada en un plano de una casa. Esta red IoT, es una red sencilla que usamos para las cosas que no pueden ser conectadas o nunca han sido conectadas. Hare una breve explicación de como fueron conectados lo utilizado en dicho ejemplo.
 
 1. Como primera parte, esta el haber agregado la imagen de fondo de un plano de una casa y tomar como referencia donde poder ubicar nuestras cosas que van hacer conectadas.
-2. 
+2. Como segundo, agregramos las conexiones que que vamos a ocupar, en este caso la que vamos a ocupar es una conexion de Wireless Divices, con el nombre mas específico que es la de Home Gateway. Esta conexión es un muy facil de usarla, ya que no nesecitamos usar algun tipo de lengauje o que sea progrmable lo antes mencionado.
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/HomeGateway.PNG)
+
+3. Como tercero, hacemos la ubicacion de las cosas que vamos a querer que se conecten al HomeGateway, que en este caso ocupamos varias cosas para poder observar de como se hace una conexión. En este caso, ocupamos lo que es una lámpara, un ventilador, una cafetera, ventenas y un equipo de sonido. Como antes indique, este dispositivo inalámbrico es un poco sencillo para que se hagan las conexeciones, solo tenemos que tomar en cuenta ciertos parámetros, que son los siguientes. El rato qu nosotros agregamos los objetos que vamos   
 
 
-## V
+## VIDEO
 - https://www.youtube.com/watch?v=DqSF19PrQUM
-
-## Anexos
-
-
 
 ## Conclusiones
 
