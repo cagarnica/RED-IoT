@@ -31,6 +31,51 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)     ![image](https://user-images.githu
      
 ## Desarrollo 
 
+**Instalacion Del Programa**
+
+Paso 1. Ir a Cisco Networking Academy, arriba a la derecha clic en Log In, Login. Ingresar con tu usuario o bien darte de alta si es que aún no tenés una cuenta (requerido).
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%201.PNG)
+
+Una vez iniciamos sesión podemos ir directamente a la zona de descarga de Cisco Packet Tracer.
+
+A mitad de página aproximadamente podrás encontrar la link para descarga; Windows Desktop Version 7.3.1 English en nuestro caso.
+
+Clic en la versión que requieras para tu equipo y guardar el archivo.
+
+Paso 2. Instalar Cisco Packet Tracer
+Doble clic al instalador.
+
+Aceptamos el contrato de licencia y clic a Next.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%202.PNG)
+
+Paso 3. Indicamos carpeta de instalación o aceptamos la sugerida y clic a Next.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%203.PNG)
+
+Paso 4. Aceptamos nombre de carpeta de menú sugerida o modificamos y clic en Next.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%204.PNG)
+
+Paso 5. Revisamos opciones de accesos directos y clic en Next.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%205.PNG)
+
+Paso 6. Todo listo! Clic en Install.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%206.PNG)
+
+Paso 7. Si todo va bien un ratito después veremos la pantalla de finalización, clic en Finish.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%207.PNG)
+
+Paso 8. En esta instancia se abre la aplicación. Es probable que nos pida nuevamente las credenciales de nuestra cuenta de Cisco Networking Academy.
+
+Y listo, nuestra herramienta de simulación lista para utilizarse.
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Paso%208.PNG)
+
 **Una red IoT**
 
 Es la agrupación e interconexión de dispositivos y objetos a través de una red (bien sea privada o Internet, la red de redes), dónde todos ellos podrían ser visibles e interaccionar. Respecto al tipo de objetos o dispositivos podrían ser cualquiera, desde sensores y dispositivos mecánicos hasta objetos cotidianos como pueden ser el frigorífico, el calzado o la ropa.
