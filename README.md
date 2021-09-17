@@ -66,7 +66,9 @@ El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo
 
 ![](https://github.com/cagarnica/Imagenes-IoT/blob/main/SSID.PNG)
 
-4. Como cuarto punto
+4. Como cuarto punto, tendremos que ubicar los dispositvos por el cual vamos hacer el manejo de las cosas que estan ubicadas en el plano. Para esto, ocupamos lo que es un smartphone y una lapto. Tenemos mas opciones con las cuales podemos trabajar, pero estas son las más utilizadas por los usuarios. Cada dispositivo tiene su propia configuración.  En este caso se podria decir que la mas compleja en ser utilizada es la laptop. Ya que tenemos que hacer un cambio de tarjeta con la cual estamos trabajando las cosas que hemos utilizado, y hacer casi una misma configuración como las cosas que están en el plano. De igual manera, a continuación voy a presentar en una imagen lo que tenemos que hacer.
+Laptop:
+
 
 
 
