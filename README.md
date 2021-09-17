@@ -10,7 +10,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)     ![image](https://user-images.githu
 - Materia: Fundamentos de circuitos eléctricos 
 
 ## Tema 
- - Ejemplo para conexión de una APP Android desarrollada en APP INVENTOR con un servicio web.
+ - Ejemplo para simular una red IoT con Packet Tracer
 
 ## Objetivo
 
@@ -21,6 +21,8 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)     ![image](https://user-images.githu
 ## Desarrollo 
 
 ## Video
+
+## Anexos
 
 ## Conclusiones
 
