@@ -60,7 +60,14 @@ El ejemplo que a continuacion va hacer presentado, es de una red que esta siendo
 2. Como segundo, agregramos las conexiones que que vamos a ocupar, en este caso la que vamos a ocupar es una conexion de Wireless Divices, con el nombre mas específico que es la de Home Gateway. Esta conexión es un muy facil de usarla, ya que no nesecitamos usar algun tipo de lengauje o que sea progrmable lo antes mencionado.
 ![](https://github.com/cagarnica/Imagenes-IoT/blob/main/HomeGateway.PNG)
 
-3. Como tercero, hacemos la ubicacion de las cosas que vamos a querer que se conecten al HomeGateway, que en este caso ocupamos varias cosas para poder observar de como se hace una conexión. En este caso, ocupamos lo que es una lámpara, un ventilador, una cafetera, ventenas y un equipo de sonido. Como antes indique, este dispositivo inalámbrico es un poco sencillo para que se hagan las conexeciones, solo tenemos que tomar en cuenta ciertos parámetros, que son los siguientes. El rato qu nosotros agregamos los objetos que vamos   
+3. Como tercero, hacemos la ubicacion de las cosas que vamos a querer que se conecten al HomeGateway, que en este caso ocupamos varias cosas para poder observar de como se hace una conexión. En este caso, ocupamos lo que es una lámpara, un ventilador, una cafetera, ventenas y un equipo de sonido. Como antes indique, este dispositivo inalámbrico es un poco sencillo para que se hagan las conexeciones, solo tenemos que tomar en cuenta ciertos parámetros, que son los siguientes. El rato que nosotros agregamos los objetos que desea utilizar, hay que hacer algunas configuraciones dentro de este dispositivo. Sin embargo, lo único que tenemos que tomar en cuenta, es que tengamos en la opcion de IoT Server activado la opcion del HomeGateway. Tambien vamos a tener que cambiarle el nombre en la parte de Wirelesss, exactamente en la opcion de SSDI con el nombre del dispositivo que estamos ocupando, en este caso es el de HomeGateway, para que asi se nos haga la conexión directa. A continuación indicare en las siguientes imagenes, como debemos de tener en cada unas de nuestras cosas que estan ubicadas en nuestro plano
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/Conexion.PNG)
+
+![](https://github.com/cagarnica/Imagenes-IoT/blob/main/SSID.PNG)
+
+4. Como cuarto punto
+
 
 
 ## VIDEO
